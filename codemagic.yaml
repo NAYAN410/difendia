@@ -5,8 +5,8 @@ workflows:
     max_build_duration: 60
     environment:
       groups:
-        - apple_id_login
-        - apple_id_password
+        - nayanporwal001@gmail.com
+        - Shiv4567@
     scripts:
       - name: Install Flutter
         script: |
@@ -23,4 +23,5 @@ workflows:
     publishing:
       email:
         recipients:
-          - your.email@example.com
+          - shivansuporwal49@gmail.com
+
