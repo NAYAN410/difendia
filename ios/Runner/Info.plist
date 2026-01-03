@@ -6,7 +6,9 @@
     <string>Authenticate to access saved logins</string>
     <key>NSCameraUsageDescription</key>
     <string>Face ID authentication</string>
-	<key>CFBundleDevelopmentRegion</key>
+    <key>io.flutter.embedded_views_preview</key>
+    <true/>
+    <key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Defindia3</string>
